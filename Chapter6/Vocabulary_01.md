@@ -20,11 +20,3 @@
 | Application/Transport/Network/Data link/Physical  | 應用層/傳輸層/網路層/資料鏈結層/實體層  |
 | addressing  | 定址  |
 | Packet names  | 封包名稱 |
-
-6.2 Application Layer
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
