@@ -3,11 +3,11 @@
 | English  | Chinese |
 | ------------- | ------------- |
 | Network  | 網路  |
-| host  | Content Cell  |
-| end system |   |
-| connecting device  |   |
-| router  |   |
-| switch  |   |
+| host  | 主機  |
+| end system | 終端系統  |
+| connecting device  | 連接裝置  |
+| router  | 路由器  |
+| switch  | 交換器  |
 | Local area network (LAN)  |   |
 | Wide area network (WAN)  |   |
 | point-to-point  |   |
