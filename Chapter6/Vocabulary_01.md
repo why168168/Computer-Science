@@ -21,6 +21,9 @@
 | addressing  | 定址  |
 | Packet names  | 封包名稱 |
 
-
+6.2 Application Layer
+| English  | Chinese |
+| ------------- | ------------- |
+|   |   |
 
 
