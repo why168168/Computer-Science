@@ -2,11 +2,10 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Network  | 網路  |
+| host  | Content Cell  |
 
 | English  | Chinese |
 | ------------- | ------------ |
-| Network  | 網路  |
-| host  | Content Cell  |
+
 
