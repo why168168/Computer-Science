@@ -22,8 +22,9 @@
 | Packet names  | 封包名稱 |
 
 6.2 Application Layer
-| English  | Chinese |
+| First Header  | Second Header |
 | ------------- | ------------- |
-| a  |  a |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
