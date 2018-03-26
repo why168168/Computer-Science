@@ -24,6 +24,6 @@
 6.2 Application Layer
 | English  | Chinese |
 | ------------- | ------------- |
-|   |   |
+| a  |  a |
 
 
