@@ -1,4 +1,4 @@
 | English  | Chinese |
-| --------------------------------- | --------------------------------- |
-| Content Cell qqqqqqqqqqqqqqqqq  | Content Cell  |
+| ------------- | ------------ |
+| Network  | 網路  |
 | Content Cell  | Content Cell  |
